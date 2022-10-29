@@ -11,6 +11,7 @@ function divisores(numero){
 return total;
 };
 
+
 //Llamar la funcion
 
 // alert("Divisores v1: " + divisores(25));
