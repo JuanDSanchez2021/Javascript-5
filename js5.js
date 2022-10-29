@@ -1,5 +1,6 @@
 // Funciones
 
+
 function divisores(numero){
   let total = 0;
   for(let i=1; i<numero; i++){
